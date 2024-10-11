@@ -22,3 +22,6 @@ This project aims to reproduce and enhance the performance of the pre-trained mo
 - **Programming Language**: Python
 - **Hardware**: Google Colab
 - **Dataset**: Dogs vs. Cats dataset (converted to grayscale) dataset link: https://www.kaggle.com/competitions/dogs-vs-cats/data
+
+## Final Model Output:
+- **Link** https://drive.google.com/drive/folders/1HGwk7TbmnePbrtovXH2IW8NnfCHMNytn?usp=sharing
